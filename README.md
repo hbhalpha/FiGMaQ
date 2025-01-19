@@ -8,5 +8,5 @@ This dataset consists of a quintuple format in the form of `<reference image, re
 2. **Rich Modification Text**: The modification text in this dataset provides a more precise description of changes made to the image. It is written in a more natural, human-like style, incorporating vague and imprecise terms, making it closer to how humans would describe adjustments or edits in everyday language.
 3. **Quintuple Structure**: Unlike typical triplets, each sample in this dataset consists of five parts. This expanded format facilitates a wide range of fine-tuning tasks, including multimodal generation and retrieval, enabling diverse applications that require an integrated understanding of both images and text.
 
-We will Release our data and code soon!
+We will release our data and code soon!
 
